@@ -1,0 +1,1 @@
+This project uses Python to create a QR code with a custom logo placed in the center. The program generates a QR code for a URL, resizes an image logo, and combines both into one final QR code image.  Language used: Python Libraries used: qrcode, Pillow (PIL)
